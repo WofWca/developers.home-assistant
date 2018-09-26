@@ -23,7 +23,7 @@ $ dos2unix homeassistant/components/notify/kodi.py
 
 ### File permissions
 
-Most files don't need to the be executable. `0644` is fine.
+Most files don't need to be executable. `0644` is fine.
 
 ### Dependencies
 
