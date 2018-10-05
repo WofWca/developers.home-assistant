@@ -6,7 +6,8 @@ The user documentation is located at [https://www.home-assistant.io](https://www
 
 The [home-assistant.io](https://home-assistant.io) website is built using [Jekyll](http://github.com/mojombo/jekyll) and [these dependencies](https://pages.github.com/versions/). The pages are written in [Markdown](http://daringfireball.net/projects/markdown/). To add a page, you don't need to know about HTML.
 
-You can use the "**Edit this page on GitHub**" link to edit pages without creating a fork. Keep in mind that you can't upload images while working this way. You work on your change and propose it via a Pull Request (PR). Once you've created a Pull Request (PR), you can see a preview of the proposed changes by clicking *Details* against Netlify checker in the checkers section of the PR as soon as deployment is complete.
+You can use the "**Edit this page on GitHub**" link to edit pages without creating a fork. Keep in mind that you can't upload images while working this way. You work on your change and propose it via a Pull Request (PR).
+Once you've created a Pull Request (PR), you can see a preview of the proposed changes by clicking *Details* against Netlify checker in the checkers section of the PR as soon as deployment is complete.
 
 For larger changes, we suggest that you clone the website repository. This way, you can review your changes locally. The process for working on the website is no different from working on Home Assistant itself.
 
